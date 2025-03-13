@@ -6,8 +6,8 @@ tl;dr: Have a look at the [Installation](INSTALLATION.md)
 What you need to play netduke32:
 
 * Source code - https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases (v1.2.1 is the most recent)
-* Compiler tools as seen in: https://wiki.eduke32.com/wiki/Main_Page
 * Attention: Compile with "make netduke32" (!) - standard eduke32 ports do not offer proper network code
+* Compiler tools as seen in: https://wiki.eduke32.com/wiki/Main_Page
 * Game content - https://archive.org/details/Duke3dAtomicEdition - that is: duke3d.grp, duke.rts
 * HRP textures - https://hrp.duke4.net/download.php - that is: Duke3D HRP v5.4 and XXX Pack v1.33 (optional)
 * For network games: The relevant Python scripts included here
