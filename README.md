@@ -12,7 +12,7 @@ What you need to play netduke32:
 
 What works in this repo: 
 
-* Compilation of source code with Linux and Windows
+* Compilation of source code with Linux
 * Potentially removing out-of-sync message when combining Linux and Windows systems
 * Python scripts for client / server connection
 * Map selection on startup
