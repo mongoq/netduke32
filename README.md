@@ -1,7 +1,7 @@
 # netduke32
 Setting up Netduke32 for multiplayer games with custom maps
 
-tl;dr: Have a look at the [Installation](INSTALLATION.md)
+tl;dr: [Installation](INSTALLATION.md)
 
 What you need to play netduke32:
 
