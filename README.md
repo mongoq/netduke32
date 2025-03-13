@@ -23,7 +23,7 @@ What works with this repo:
   
 TODO: 
 
-* Maps as Download - where to host 226MB?
+* Maps as download - where to host 226MB?
 * Windows MSYS2 compilation guide / .exe generation
 * Check *out-of-sync error* removal patch works with Linux <-> Windows
 * Integrate FRITZ!Box UDP port forwarding open / close script
