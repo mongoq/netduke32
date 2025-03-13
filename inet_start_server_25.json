@@ -1,0 +1,16 @@
+{
+    "server": "www.mongoq.de",
+    "port": "800",
+    "executable": "netduke32",
+    "playername": "Hans-Wurst",
+    "numberofplayers": "1",
+    "numberofbots": "0",
+    "duke_map": "./maps/old/ffest96.map",
+    "fraglimit": "100",
+    "disable_monsters": "1",
+    "weaponstay": "0",
+    "startup_window": "0",
+    "frag_limit": "10",
+    "ssh_magic": "0",
+    "password": ""
+}
