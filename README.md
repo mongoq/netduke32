@@ -10,14 +10,15 @@ What you need to play netduke32:
 * HRP textures - https://hrp.duke4.net/download.php - that is: Duke3D HRP v5.4 and XXX Pack v1.33 (optional)
 
 What works in this repo: 
-* Python scripts for client / server connection
-* Map selection on startup
+
 * Compilation of source code with Linux and Windows
 * Potentially removing out-of-sync message when combining Linux and Windows systems
+* Python scripts for client / server connection
+* Map selection on startup
   
 TODO: 
+
 * Describe usage more detailed
-* duke3d.grp as download - internet archive?
 * Maps as Download - where to host 226MB?
 * Windows MSYS2 compilation guide / .exe generation
 * Check out-of-sync error removal patch works with Linux <-> Windows
