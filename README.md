@@ -1,7 +1,7 @@
 # netduke32
 Setting up Netduke32 for multiplayer games with custom maps
 
-tl;dr: Have a look at the [Installation](INSTALLATION.md).
+tl;dr: Have a look at the [Installation](INSTALLATION.md)
 
 What you need to play netduke32:
 
@@ -14,17 +14,16 @@ What you need to play netduke32:
 
 What works in this repo: 
 
-* Compilation of source code with Linux
-* Potentially removing out-of-sync message when combining Linux and Windows systems
-* Python scripts for client / server connection
+* Compilation of source code with Linux and Windows
+* Potentially removing *out-of-sync message* when combining Linux and Windows systems
+* Python scripts for client / server connection initiation
 * Map selection on startup
   
 TODO: 
 
-* Describe usage more detailed
 * Maps as Download - where to host 226MB?
 * Windows MSYS2 compilation guide / .exe generation
 * Check out-of-sync error removal patch works with Linux <-> Windows
 * Integrate FritzBox UDP port open script
-* Description of Wireguard trick with dedicated server
+* Description of Wireguard trick with dedicated server (IPv4 address required for the server)
 * Windows Python standalone .exe for client / server scripts with icon
