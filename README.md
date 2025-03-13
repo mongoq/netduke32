@@ -1,6 +1,8 @@
 # netduke32
 Setting up Netduke32 for multiplayer games with custom maps
 
+-> [Installation](INSTALLATION.md)
+
 What you need to play netduke32:
 
 * Source code - https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases
