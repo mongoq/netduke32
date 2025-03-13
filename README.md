@@ -29,4 +29,4 @@ TODO:
 * Integrate FRITZ!Box UDP port forwarding open / close script
 * Wireguard trick with dedicated server (public IPv4 address is required for the server side of netduke32)
 * Windows Python standalone .exe for client / server scripts with icon
-* Test of dedicated server: xvfb-run ./netduke32 -nosetup ... (seems to start, more to be tested!)
+* Test of dedicated server: xvfb-run ./netduke32 -nosetup -dedicated ... (seems to start, no gui, with sound, more to be tested!)
