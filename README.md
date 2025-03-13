@@ -30,3 +30,4 @@ TODO:
 * Wireguard trick with dedicated server (IPv4 address is required for the server side of netduke32)
 * Windows Python standalone .exe for client / server scripts with icon
 * Test of dedicated server: *xvfb-run ./netduke32 -nosetup -dedicated ...* (seems to start, no gui, with sound, more to be tested!)
+* https://wiki.eduke32.com/wiki/NetDuke32 ... copy infos ...
