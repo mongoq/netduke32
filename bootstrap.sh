@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# This script downloads the required game content and high resolution textures.
+# TODO: Combine with other scripts to form the netduke32 target directory featuring "everything".
+
 echo ""
 echo "---------------------------"
 echo "- Netduke32 Bootstrapping -"
