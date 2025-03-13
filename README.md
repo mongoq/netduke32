@@ -27,6 +27,6 @@ TODO:
 * Windows MSYS2 compilation guide / .exe generation
 * Check *out-of-sync error* removal patch works with Linux <-> Windows
 * Integrate FRITZ!Box UDP port forwarding open / close script
-* Wireguard trick with dedicated server (public IPv4 address is required for the server side of netduke32)
+* Wireguard trick with dedicated server (IPv4 address is required for the server side of netduke32)
 * Windows Python standalone .exe for client / server scripts with icon
 * Test of dedicated server: xvfb-run ./netduke32 -nosetup -dedicated ... (seems to start, no gui, with sound, more to be tested!)
