@@ -1,4 +1,4 @@
-Installation
+# Installation
 
 1. Get compilation tools from: https://wiki.eduke32.com/wiki/Main_Page (Linux or Windows)
 2. Compile *netduke32* binary using the *get_patch_and_compile.sh* script. This automatically downloads and patches the most recent source code of netduke32. Make sure to use *make netduke32* if you compile it yourself as simple *make* creates an eduke32 port with disfunctional network code. The included patch removes the error message *Net_DisplaySyncMsg()* when running the game on Linux and Windows pcs in combination.
