@@ -5,7 +5,7 @@ tl;dr: [Installation](INSTALLATION.md)
 
 What you need to play netduke32:
 
-* Source code - https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases (v1.2.1 is the most recent version)
+* Source code - https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases (v1.2.1 is the most recent)
   
   Attention: Compile with "make netduke32" (!) - standard eduke32 ports (compiled by *make*) do not offer functional network code
 * Compiler tools as seen in: https://wiki.eduke32.com/wiki/Main_Page
