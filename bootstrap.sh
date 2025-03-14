@@ -2,6 +2,7 @@
 
 # This script downloads the required game content and high resolution textures.
 # TODO: Combine with other scripts to form the netduke32 target directory featuring "everything".
+# Use the other sha256sum values for more downloadable content - https://wiki.eduke32.com/wiki/Frequently_Asked_Questions#EDuke32
 
 echo ""
 echo "---------------------------"
