@@ -23,7 +23,7 @@ What works with this repo:
 TODO: 
 
 * Maps as download - where to host 226MB?
-* Windows MSYS2 compilation guide / .exe generation
+* Windows MSYS2 compilation script / .exe tests
 * Check *out-of-sync error* removal patch works with Linux <-> Windows
 * Wireguard trick with dedicated server (IPv4 address is required for the server side of netduke32)
 * Windows Python standalone .exe for client / server scripts with icon
