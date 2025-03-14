@@ -6,6 +6,7 @@ tl;dr: [Installation](INSTALLATION.md)
 What you need to play netduke32:
 
 * [Source code v1.2.1](https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases) - compile with *get_and_path_and_compile.sh*
+* Get [toolchain](https://wiki.eduke32.com/wiki/Main_Page) for your os
 * Attention: Compile with *make netduke32* (!) - standard eduke32 ports (as compiled by *make* only) do not include functional network code
 * Compiler tools as seen in: https://wiki.eduke32.com/wiki/Main_Page
 * Game content - https://archive.org/details/Duke3dAtomicEdition - that is: duke3d.grp, duke.rts
