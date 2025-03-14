@@ -5,4 +5,4 @@
 3. Run *bootstrap.sh* to download high resolution textures and game content. Put *duke3d_hrp.zip* and *duke3d_xxx.zip* in a folder called *autoload*. Put the contents of the *duke3d* folder in your main netduke32 folder.
 4. Get Maps from (TODO) and put them in the subfolder *maps*. Make sure to have the same maps on all installations.
 5. Setup either port forwarding with a UDP port like *23513* (standard) on your router. If you have a FritzBox! use the provided scripts to open and close the port. Alternatively use the Wireguard trick (TODO). The game needs a IPv4 address for the server side. When running the game in your LAN you obviously do not need this additional efforts. Just make sure the server port, e.g. *23513*, is reachable via UDP.
-6. Use the Python starter scripts for server and client side (and the JSON settings files). This should work with Windows and Linux.
+6. Clone this repository and use the Python starter scripts for server and client side (and the JSON settings files). This should work with Windows and Linux. 
