@@ -1,5 +1,9 @@
 @echo off
 
+rem ---
+rem THIS FILE IS WORK IN PROGRESS. DEMONSTRATES THE POWER OF MSYS2 IN ANY CASE !!!
+rem ---
+
 echo.
 echo ----------------------
 echo - Netduke32 Compiler -
@@ -40,16 +44,6 @@ set "netduke-dir=%netduke-file:.tar.gz=%"
 
 mkdir c:\temp\
 cd /d c:\temp\
-
-REM ----------------------------------------------------
-
-
-
-
-
-
-
-
 
 REM ----------------------------------------------------
 
