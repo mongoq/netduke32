@@ -5,7 +5,7 @@ tl;dr: [Installation](INSTALLATION.md)
 
 What you need to play netduke32:
 
-* [Source code v1.2.1](https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases) - compile with *get_and_patch_and_compile.sh*
+* [Source code v1.2.1](https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases) - compile with *get_and_patch_and_compile.sh* (auto download)
 * Get appropriate [toolchain](https://wiki.eduke32.com/wiki/Main_Page) for your os before compilation
 * Attention: netduke32 is compiled by *make netduke32* - standard eduke32 ports (as also compiled by *make* only) do not include functional network code
 * [Game content](https://archive.org/details/Duke3dAtomicEdition) - that is duke3d.grp and duke.rts and [HRP textures](https://hrp.duke4.net/download.php) - that is Duke3D HRP v5.4 and XXX Pack v1.33 (optional) can also be downloaded by running *bootstrap.sh*
