@@ -1,6 +1,6 @@
 # Installation
 
-1. Get the [compiler toolchain](https://wiki.eduke32.com/wiki/Main_Page) (Linux or Windows, MacOS 15 has problems)
+1. Get the [compiler toolchain](https://wiki.eduke32.com/wiki/Main_Page) (Linux or Windows, MacOS 15 compilation doesn't seem to work at the moment)
 2. Compile *netduke32* binary using the *[get_and_patch_and_compile.sh](https://github.com/mongoq/netduke32/blob/main/get_and_patch_and_compile.sh)* script. This automatically downloads and patches the most recent [source code](https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases) of netduke32 (v1.2.1). Make sure to use *make netduke32* if you compile it yourself as simple *make* creates an eduke32 port with disfunctional network code. The included patch removes the error message *Net_DisplaySyncMsg()* when running the game on Linux and Windows pcs in combination.
 3. Run *[bootstrap.sh](https://github.com/mongoq/netduke32/blob/main/bootstrap.sh)* to download high resolution textures and game content. Put *duke3d_hrp.zip* and *duke3d_xxx.zip* in a folder called *autoload*. Put the contents of the *duke3d* folder in your main netduke32 folder.
 4. Get Maps from (TODO) and put them in the subfolder *maps*. Make sure to have the same maps on all installations.
