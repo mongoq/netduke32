@@ -1,7 +1,7 @@
 #!/bin/bash
 
+# This script compiles netduke32 and patches the out-of-sync error when running Linux and Windows combined
 # Check https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/releases for new releases and changes and fixes
-# We are using ver Netduke32 v1.2.1
 
 # Variables
 ZIP_URL="https://voidpoint.io/StrikerTheHedgefox/eduke32-csrefactor/-/archive/NetDuke32_v1.2.1/eduke32-csrefactor-NetDuke32_v1.2.1.zip"
