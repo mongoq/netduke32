@@ -2,6 +2,7 @@
 
 rem ---
 rem THIS FILE IS WORK IN PROGRESS. DEMONSTRATES THE POWER OF MSYS2 IN ANY CASE !!!
+rem Check out: https://wiki.eduke32.com/wiki/Building_EDuke32_on_Windows
 rem ---
 
 echo.
