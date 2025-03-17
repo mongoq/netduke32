@@ -1,6 +1,9 @@
 # netduke32
 Setting up netduke32 for multiplayer games with custom maps even across the Internet
 
+![netduke32 image](https://wiki.eduke32.com/w/images/5/5e/Netduke32.png)
+
+
 tl;dr: [Installation](INSTALLATION.md)
 
 What you need to play netduke32:
