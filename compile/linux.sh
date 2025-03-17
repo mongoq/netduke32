@@ -49,7 +49,6 @@ sleep 3
 echo "" 
 echo "Check for further compiling instructions and what is needed:"
 echo "https://wiki.eduke32.com/wiki/Building_EDuke32_on_Linux"
-echo "https://wiki.eduke32.com/wiki/Building_EDuke32_on_Windows"
 echo ""
 
 read -p "Do you want to compile netduke32? (Y/n): " choice
