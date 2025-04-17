@@ -4,4 +4,4 @@
 * Compile the Windows netduke32.exe binary
 * Download the game content
   
-* Also: Try the out-of-sync patched Windows .exe if it works without .dlls
+* Also: Try the out-of-sync patched precompiled Windows .exe if it works without .dlls
